@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/srstest3/RETINA_Analyzer_ROS1208/catkin_ws/install/setup.sh

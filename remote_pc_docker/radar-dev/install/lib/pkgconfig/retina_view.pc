@@ -1,0 +1,8 @@
+prefix=/home/srstest3/RETINA_Analyzer_ROS1208/catkin_ws/install
+
+Name: retina_view
+Description: Description of retina_view
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
